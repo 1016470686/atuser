@@ -23,7 +23,6 @@ Minecraft Server ATuser Plugins 是一个基于 Bukkit API 的 Minecraft 服务�
 - `at.user`：普通玩家权限，允许使用 Minecraft Server ATuser Plugins 插件提醒其他玩家。
 - `at.admin`：管理员权限，允许管理 Minecraft Server ATuser Plugins 插件的设置和功能。
 - `at.all`：允许使用 `@所有人` 功能提醒所有在线玩家的权限。
-- `at.shield`：允许屏蔽其他玩家对自己的提醒消息。
 
 ## 源代码
 
